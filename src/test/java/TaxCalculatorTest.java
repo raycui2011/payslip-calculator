@@ -2,9 +2,6 @@
 package com.myob.calculator;
 import junit.framework.TestCase;
 
-/**
- * Created by lynnchin on 7/02/2016.
- */
 public class TaxCalculatorTest extends TestCase {
 
 	public void testWithInvalidAnnualIncome() {

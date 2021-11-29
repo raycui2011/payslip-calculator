@@ -3,9 +3,6 @@ package com.myob.calculator;
 import junit.framework.TestCase;
 import org.junit.Before;
 
-/**
- * Created by lynnchin on 7/02/2016.
- */
 public class PayslipCalculatorTest extends TestCase{
 	private PaySlipCalculator paySlipCalculator;
 
